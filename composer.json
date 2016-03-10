@@ -1,0 +1,15 @@
+{
+    "name": "nejra/cs380",
+    "authors": [
+        {
+            "name": "Sadeta Kulovic",
+            "email": "sadeta.kulovic@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"Sadeta\\":"sadeta"
+    	}
+    }
+}
